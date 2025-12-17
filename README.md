@@ -17,7 +17,7 @@ I focus on learning by doing—without rushing or claiming skills I haven't earn
 
 ## 🌐 Social & Contacts
 
-* Discord: - Discord: @alexdev
+* Discord: [https://discord.com/users/1128716794560004116](https://discord.com/users/1128716794560004116)
 * GitHub: [https://github.com/occhiogt](https://github.com/occhiogt)
 
 ---
