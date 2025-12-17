@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi, I'm Alex 👋
 
-<!--
-**occhiogt/occhiogt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student and aspiring software developer, currently studying and practicing multiple programming languages and technologies.
+My goal is to build strong foundations, write clean and understandable code, and grow through consistent hands-on projects.
 
-Here are some ideas to get you started:
+I focus on learning by doing—without rushing or claiming skills I haven't earned yet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+* Student passionate about programming and software development
+* Learning through real projects and continuous practice
+* Focused on fundamentals, clarity, and long-term growth
+
+---
+
+## 🌐 Social & Contacts
+
+* Discord: **TUO_DISCORD#0000**
+* GitHub: [https://github.com/occhiogt](https://github.com/occhiogt)
+
+---
+
+## 🛠 Tech Stack
+
+### Programming Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+</p>
+
+### Frontend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+</p>
+
+### Database
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+</p>
+
+### Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=occhiogt\&show_icons=true\&theme=dark\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=occhiogt\&layout=compact\&theme=dark\&hide_border=true)
+
+---
+
+## 🎯 Current Objective
+
+Strengthen my programming fundamentals, build meaningful projects, and improve step by step as a developer.
