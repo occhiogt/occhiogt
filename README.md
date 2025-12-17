@@ -29,8 +29,6 @@ I focus on learning by doing—without rushing or claiming skills I haven't earn
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 </p>
-- Scripting and basic automation  
-- Logic, data handling, and problem solving  
 
 ---
 
@@ -39,8 +37,6 @@ I focus on learning by doing—without rushing or claiming skills I haven't earn
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
 </p>
-- Core programming concepts  
-- Memory management and performance-oriented code  
 
 ---
 
@@ -49,8 +45,6 @@ I focus on learning by doing—without rushing or claiming skills I haven't earn
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
 </p>
-- Object-oriented programming  
-- Application logic and structure  
 
 ---
 
@@ -59,8 +53,6 @@ I focus on learning by doing—without rushing or claiming skills I haven't earn
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 </p>
-- Dynamic frontend behavior  
-- DOM manipulation and basic logic  
 
 ---
 
@@ -69,8 +61,6 @@ I focus on learning by doing—without rushing or claiming skills I haven't earn
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
 </p>
-- Typed JavaScript fundamentals  
-- Safer and more maintainable code  
 
 ---
 
@@ -80,8 +70,6 @@ I focus on learning by doing—without rushing or claiming skills I haven't earn
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 </p>
-- Responsive layouts  
-- CSS animations and UI structure  
 
 ---
 
@@ -90,8 +78,6 @@ I focus on learning by doing—without rushing or claiming skills I haven't earn
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 </p>
-- Basic relational database concepts  
-- Queries and data organization  
 
 ---
 
@@ -100,8 +86,6 @@ I focus on learning by doing—without rushing or claiming skills I haven't earn
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
 </p>
-- Microcontroller basics  
-- Simple hardware–software interaction  
 
 ---
 
