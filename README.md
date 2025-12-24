@@ -54,4 +54,4 @@ I prefer learning by doing, without overstating skills or rushing the process.
 
 * GitHub: [https://github.com/occhiogt](https://github.com/occhiogt)
 * Discord: [https://discord.com/users/1128716794560004116](https://discord.com/users/1128716794560004116)
-* 
+---
