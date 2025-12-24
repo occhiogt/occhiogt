@@ -1,15 +1,15 @@
 # Hi, I'm Alex
 
-I'm a student and aspiring software developer focused on building **solid fundamentals** through real projects and consistent practice.
+I'm a student and aspiring software developer focused on building **solid fundamentals** through real projects and consistent practice.  
 I prefer learning by doing, without overstating skills or rushing the process.
 
 ---
 
 ## About Me
 
-* Student passionate about software development
-* Learning through hands-on projects
-* Focused on clarity, fundamentals, and long-term growth
+- Student passionate about software development  
+- Learning through hands-on projects  
+- Focused on clarity, fundamentals, and long-term growth  
 
 ---
 
@@ -50,10 +50,19 @@ I prefer learning by doing, without overstating skills or rushing the process.
 
 ---
 
-## Socials
+## GitHub Stats
 
-* GitHub: [https://github.com/occhiogt](https://github.com/occhiogt)
-* Discord: [https://discord.com/users/1128716794560004116](https://discord.com/users/1128716794560004116)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=occhiogt&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=occhiogt&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NDCSwift&show_icons=true&theme=tokyonight)
+## Socials
+
+- GitHub: https://github.com/occhiogt  
+- Discord: https://discord.com/users/1128716794560004116  
