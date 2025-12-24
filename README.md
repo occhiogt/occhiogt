@@ -59,5 +59,10 @@ I prefer learning by doing, without overstating skills or rushing the process.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=occhiogt&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=occhiogt&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" />
+</p>
 
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=occhiogt&theme=dark&hide_border=true" />
+</p>
