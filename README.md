@@ -56,3 +56,13 @@ I prefer learning by doing, without overstating skills or rushing the process.
 * Discord: [https://discord.com/users/1128716794560004116](https://discord.com/users/1128716794560004116)
 
 ---
+
+## GitHub Stats
+
+<a href="https://github.com/occhiogt">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=occhiogt&show_icons=true&theme=dark&hide_border=true"
+    alt="GitHub Stats"
+  />
+</a>
+
