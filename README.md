@@ -15,8 +15,7 @@ I prefer learning by doing, without overstating skills or rushing the process.
 
 ## Tech Stack
 
-**Languages**
-
+### Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
@@ -25,22 +24,19 @@ I prefer learning by doing, without overstating skills or rushing the process.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 </p>
 
-**Frontend**
-
+### Frontend
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 </p>
 
-**Database & Embedded**
-
+### Database & Embedded
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
 </p>
 
-**Tools & Environment**
-
+### Tools & Environment
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
@@ -50,19 +46,25 @@ I prefer learning by doing, without overstating skills or rushing the process.
 
 ---
 
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=occhiogt&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=occhiogt&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## Socials
 
 - GitHub: https://github.com/occhiogt  
 - Discord: https://discord.com/users/1128716794560004116  
+
+---
+
+## GitHub Stats
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=occhiogt&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=occhiogt&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="Top Languages"
+  />
+</p>
